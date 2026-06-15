@@ -1,0 +1,53 @@
+# Meetings
+
+## Meeting Expectations
+
+- There should always be a designated notetaker tracking decisions and next steps
+- The most junior person in the meeting is responsible for taking notes unless otherwise noted
+- Come prepared with the link to the notes document before the meeting starts
+- All team members should participate actively and take responsibility for the usefulness of meetings
+- Update meeting agendas ahead of time for 1:1s and project meetings
+- Make sure to clarify who will do what and by when whenever a to-do comes up
+
+## Mandatory Meetings
+
+The list of recurring TPL meetings and their purpose is covered in onboarding checklists.
+
+- All lab members are expected to attend team meetings
+- Project meetings are mandatory during weeks when projects you are assigned to are discussed
+- If you cannot attend a mandatory meeting, communicate with your manager and post in #lablogistics on Slack
+
+## Partner Meeting Norms
+
+- Most partner meetings are held virtually — arriving on time is critical
+- If you will be late, notify the project Slack channel and your manager before the meeting start time
+- Know who is responsible for the agenda and review all materials ahead of time
+- The most junior person on the call should:
+  - Come prepared with a note-taking document in the project's running notes folder
+  - Note all names, titles, and affiliations of attendees
+  - Be ready to link and share relevant documents during the meeting
+- Meeting notes should include a clear record of all to-dos, next steps, and timelines discussed
+- After the meeting, ensure all to-dos are tracked and followed up on by the agreed deadline
+
+## Scheduling Elizabeth
+
+Loop Caroline in for any meeting that involves Elizabeth. Make sure the following is clear:
+
+- Length of meeting
+- Frequency (one time or recurring)
+- Type of meeting (in-person / phone / Zoom) and location if in-person
+- Attendees and their email addresses
+- When the meeting needs to happen by
+- Purpose of the meeting
+- Who is responsible for facilitating and setting the agenda
+- Anything Elizabeth needs to review beforehand — must be provided at least 48 hours in advance with a note to Caroline
+
+## Adding Things to Elizabeth's To-Do List
+
+Caroline manages Elizabeth's to-do list. CC Caroline on any email or loop her into any Slack thread with a to-do for Elizabeth. Include:
+
+- Context about where the to-do came from
+- Links to any related documents
+- The deadline and how it was set (Elizabeth generally needs one week's notice for review)
+- What specifically is needed from Elizabeth
+- The next step after Elizabeth's review
