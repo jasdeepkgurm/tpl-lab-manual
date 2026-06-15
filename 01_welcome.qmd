@@ -1,0 +1,43 @@
+# Welcome & Getting Started
+
+## About The People Lab
+
+- [TPL Two-pager](link) - A high level summary of TPL's mission, values, partnership approach, and example projects
+- [Welcome to TPL Presentation](link) - A high-level introductory overview to working at TPL
+- [TPL History](link) – Overview of how The People Lab came to be
+- [TPL 2024 Annual Report](link) – Annual document describing the work of TPL
+
+## Onboarding To-Dos
+
+- [Student onboarding list](link)
+- [Staff onboarding list](link)
+
+You should also have received a first week document with background information on your role and first projects.
+
+## Meet the Team
+
+- [Our team](https://thepeople.lab) - Read team bios on our website
+
+### Key Contacts
+
+- **Professor Elizabeth Linos** – Faculty Director (Cambridge, MA)
+- **Karalyn Lacey** – Executive Director (California)
+- **Dr. Jessica Lasky-Fink** – Research Director (Cambridge, MA)
+- **Noe Negri** – Assistant Director of Operations (Brooklyn, NY)
+- **Caroline Meserve** – Senior Executive Assistant & Faculty Program Manager (Cambridge, MA)
+- **Heidi Wallace** – Senior Research Associate (California)
+- **Alec Wall** – Research Associate (Cambridge, MA)
+
+## Examples of TPL's Work
+
+- [Project pages](link) on the TPL website
+- [TPL project inventory](link)
+
+## Helpful Resources
+
+### Behavioral Science
+- 🚧 [The Behavioral Insights Team: EAST framework](link)
+
+### RCTs
+- 🚧 [Running Randomized Evaluations: A Practical Guide](link) by Rachel Glennerster
+- 🚧 [JPAL: Introduction to Randomized Evaluations](link)
